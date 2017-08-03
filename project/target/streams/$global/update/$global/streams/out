@@ -6232,7 +6232,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#jline;2.10.6!jline.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 4864ms :: artifacts dl 42ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 2535ms :: artifacts dl 107ms[0m
 [0m[[0mdebug[0m] [0m	report for default#untitled-build;0.1-SNAPSHOT compile produced in D:\McKinsey\untitled\project\target\resolution-cache\reports\default-untitled-build-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#untitled-build;0.1-SNAPSHOT runtime produced in D:\McKinsey\untitled\project\target\resolution-cache\reports\default-untitled-build-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#untitled-build;0.1-SNAPSHOT test produced in D:\McKinsey\untitled\project\target\resolution-cache\reports\default-untitled-build-test.xml[0m
@@ -6246,5 +6246,5 @@
 [0m[[0mdebug[0m] [0m	report for default#untitled-build;0.1-SNAPSHOT docs produced in D:\McKinsey\untitled\project\target\resolution-cache\reports\default-untitled-build-docs.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#untitled-build;0.1-SNAPSHOT pom produced in D:\McKinsey\untitled\project\target\resolution-cache\reports\default-untitled-build-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#untitled-build;0.1-SNAPSHOT scala-tool produced in D:\McKinsey\untitled\project\target\resolution-cache\reports\default-untitled-build-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (4864ms resolve - 42ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (2535ms resolve - 107ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m

@@ -4,6 +4,8 @@ version := "1.0"
 
 scalaVersion := "2.11.8"
 
+mainClass := Some("SpikeMain")
+
 unmanagedJars in Compile := (baseDirectory.value ** "*.jar").classpath
 
 libraryDependencies ++= Seq(

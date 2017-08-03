@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Spike
+Implementation-Version: 1.0
+Specification-Vendor: spike
+Specification-Title: Spike
+Implementation-Vendor-Id: spike
+Specification-Version: 1.0
+Implementation-Vendor: spike
+Main-Class: SpikeMain
+Class-Path: sqljdbc42.jar
+
